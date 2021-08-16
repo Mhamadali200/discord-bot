@@ -9,4 +9,4 @@ client.once("ready", () =>{
 
 
 
-client.login("tokni botakay xow");
+client.login("ODU2MDkzMjExNjkyMzY3ODgz.YM8A7w.2j0tCYwyuWOmwUwABvHetpVC0OM");
